@@ -1,0 +1,42 @@
+campos do professor
+tabela = conteudista
+
+nome
+
+dados bancarios
+	banco
+	agencia
+	operacao
+	conta
+
+dados pessoais
+	rg
+	cpf
+	estado civil
+	data de nascimento
+
+endereco
+	cidade
+	estado
+	rua
+	numero
+	cep
+	adicional
+
+contato
+	celular
+	fixo
+	email
+
+Area de atuacão
+
+materiais produzidos
+
+qualidade
+	gravacao
+	conteudo
+	escrita
+
+
+
+
